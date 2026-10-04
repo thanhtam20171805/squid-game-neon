@@ -1,0 +1,25 @@
+body {
+    background-color: #0d0d0d; /* Nền tối hẳn để hiệu ứng Neon phát sáng đẹp nhất */
+    text-align: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: #fff; 
+    user-select: none;
+    margin-top: 30px;
+}
+
+h1 {
+    text-shadow: 0 0 10px #ff007f, 0 0 20px #ff007f; /* Chữ tiêu đề phát sáng hồng */
+}
+
+p {
+    color: #00ffff;
+    text-shadow: 0 0 5px #00ffff;
+}
+
+canvas {
+    background-color: #111111; 
+    border: 4px solid #333; 
+    border-radius: 10px;
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.1);
+    cursor: pointer;
+}
